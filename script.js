@@ -31,6 +31,6 @@ document.querySelector('.search-bar').addEventListener('keypress', function (e) 
         weather.search();
     }
 });
-weather.fetchWeather('jaunpur');
+weather.fetchWeather('tokyo');
 
 
